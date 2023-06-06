@@ -1,0 +1,11 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "yvesholenstein",
+    "repo": "figment-eth2-depositor",
+    "branch": "master"
+  },
+  "name": "Figment ETH2 Depositor",
+  "description": "Figment aggregation smart contract for ETH2 deposits",
+  "version": "1.0.0"
+}
